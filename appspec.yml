@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: C:\Users\91639\Desktop\landingpage\HTMLCSS-LandingPage-master\index.html
+  - source: /index.html
     destination: /var/www/html/
 hooks:
   BeforeInstall:
